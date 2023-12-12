@@ -9,7 +9,9 @@
 * Refactored my code into a reusable function that accepts an input image and returns a preprocessed image.
 
 * Tested the code by preprocessing the image of a [kitten](Images/kitten.jpg) and printing the predicted labels.
-
+<p align="center">
+  <img src="images/result.png" alt="images" width="600"/>
+</p>
 ---
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
