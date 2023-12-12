@@ -10,7 +10,7 @@
 
 * Tested the code by preprocessing the image of a [kitten](Images/kitten.jpg) and printing the predicted labels.
 <p align="center">
-  <img src="images/result.png" alt="images" width="600"/>
+  <img src="Images/result.png" alt="images" width="600"/>
 </p>
 ---
 
