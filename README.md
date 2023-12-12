@@ -1,4 +1,4 @@
-# Used the pretrained `Xception` CNN model to predict image labels by completing the following tasks:
+### Used the pretrained `Xception` CNN model to predict image labels by completing the following tasks:
 
 * Visited the [Xception](https://keras.io/applications/#xception) documentation to determine the image size and any other parameters needed to load and use the model.
 
